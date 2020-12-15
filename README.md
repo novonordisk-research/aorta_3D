@@ -27,4 +27,4 @@ The weights of a trained 3D U-net are available [here](https://drive.google.com/
 
 The U-net implementation is inspired by [this repository](https://github.com/shibuiwilliam/Keras_Autoencoder).
 
-When using this code, please cite: to be added...
+When using this code, please cite: [https://www.nature.com/articles/s41598-020-78632-4](https://www.nature.com/articles/s41598-020-78632-4)
